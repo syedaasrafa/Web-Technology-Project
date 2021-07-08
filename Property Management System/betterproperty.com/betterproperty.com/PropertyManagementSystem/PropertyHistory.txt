@@ -1,0 +1,14 @@
+[
+    {
+        "pName": "Land",
+        "pid": 100,
+        "pprice": "800000000",
+        "pquantity": 7
+    },
+    {
+        "pName": "Flat",
+        "pid": 101,
+        "pprice": "5966363332",
+        "pquantity": 6
+    }
+]
